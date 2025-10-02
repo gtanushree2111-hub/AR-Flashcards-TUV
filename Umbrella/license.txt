@@ -1,0 +1,8 @@
+Model Information:
+* title:	Red beach umbrella
+* source:	https://sketchfab.com/3d-models/red-beach-umbrella-86f58a6d1b434b11a4830c4c43d1f52d
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
